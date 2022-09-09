@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielCoalStone
 - 👀 I’m interested in entreprenuership
-- 🌱 I’m currently learning javascript + python
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on some ventures/start ups
 - 📫 How to reach me?
 - Telegram - @DanielCoalStone
